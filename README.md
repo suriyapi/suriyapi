@@ -1,5 +1,5 @@
 ### Hi there 👋
-# [Your Name]
+# [Suriya Pinitkan]
 
 ## Hello 👋
 
