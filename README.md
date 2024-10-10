@@ -1,43 +1,26 @@
-### Hi there 👋
-# [Suriya Pinitkan]
+# Hi there 👋  
+## Suriya P.
 
-## Hello 👋
+Welcome to my GitHub Portfolio! I'm Suriya P. and this is where I share knowledge, projects, and my passion for technology.
 
-Welcome to my GitHub Portfolio! I'm [Your Name], and this is where I share knowledge, greetings, and the projects I've worked on.
+### Basic Information  
+- 🌐 Location: Nakhon Pathom, Thailand  
+- 📧 Email: [suriya.p@ku.th](mailto:suriya.p@ku.th)  
+- 🔗 LinkedIn: [Suriya Pinitkan on LinkedIn](https://www.linkedin.com/in/suriya-pinitkan-636593181/)  
+- 🌐 Website: [it.flas.kps.ku.ac.th](https://it.flas.kps.ku.ac.th/)  
 
-### Basic Information
+---
 
-- 🌐 Location: [Country/City]
-- 📧 Email: [you@example.com]
-- 🔗 LinkedIn: [LinkedIn Profile]
-- 🌐 Website: [Link to Your Personal Website]
+### Greetings  
+Hello there! I'm Suriya P., an academic and researcher in computational science at the **Department of Computational Science and Digital Technology, Faculty of Liberal Arts and Science, Kasetsart University (KPS Campus)**. I have a keen interest in digital transformation, IT infrastructure, and research projects. My experience includes working with technologies like Docker, React, and Apache Airflow, focusing on building scalable systems for academic and operational needs.  
 
-### Greetings
+---
+### Vision  
+I am committed to driving digital transformation in academic and public sector organizations, helping to modernize IT infrastructure and streamline operations. I am always looking for new opportunities to collaborate on projects that make a meaningful impact.  
 
-Hello there! I'm [Your Name], a software developer with a keen interest in [Your Interests]. I have experience working with [Programming Languages], [Technologies], and [Previous Projects] that have given me expertise in [Your Expertise].
+Feel free to contact me via email at [suriya.p@ku.th](mailto:suriya.p@ku.th) if you'd like to connect or collaborate!
 
-### Projects and Greetings
-
-#### [Project 1]
-
-- 📂 Project: [Project Name]
-- 📝 Description: [Project Description]
-- 🛠️ Tech Stack: [Technologies/Programming Languages Used]
-- 🌐 Link: [Link to the Project]
-
-#### [Project 2]
-
-- 📂 Project: [Project Name]
-- 📝 Description: [Project Description]
-- 🛠️ Tech Stack: [Technologies/Programming Languages Used]
-- 🌐 Link: [Link to the Project]
-
-### Vision
-
-I am committed to [Your Vision or Goal] and continuously developing myself. If you are interested in anything specific or would like to collaborate, feel free to contact me via email at [you@example.com].
-
-Thank you for visiting!
-
+---
 
 <!--
 **suriyapi/suriyapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
